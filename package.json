@@ -1,6 +1,6 @@
 {
-  "name": "alish-prediatric-dose--calculator",
-  "version": "1.0.1",
+  "name": "alish-pediatric-dose--calculator",
+  "version": "1.0.2",
   "description": "A prediatric dose calculator with Typescript, Node.js, Inquirer and Chalk",
   "main": "index.js",
   "type": "module",
